@@ -10,4 +10,4 @@ Whata App User BOT
 
 
 
-[`Scan QR`]
+[`Scan QR`]()
